@@ -14,4 +14,4 @@ A preprint of the paper can be found in https://arxiv.org/pdf/2009.08720.pdf
 Please contact me at diego.marcos@wur.nl for questions and feedback. 
 
 <a name="marcos2020"></a>
-[1] Marcos, D., Fong, R., Lobry, S., Flamary, R., Courty, N. & Tuia, D. ACCV 2020. Contextual Semantic Interpretability. arXiv preprint arXiv:2009.08720.
+[1] Marcos, D., Fong, R., Lobry, S., Flamary, R., Courty, N. & Tuia, D. Contextual Semantic Interpretability. ACCV 2020.
